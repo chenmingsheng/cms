@@ -9,7 +9,7 @@ namespace tool\src;
 class entrance{
     public function __construct()
     {
-
+        
     }
 
     public function demo(){

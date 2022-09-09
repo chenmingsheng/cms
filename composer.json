@@ -1,0 +1,18 @@
+{
+    "name": "chenmingsheng/cms",
+    "type": "library",
+    "authors": [
+        {
+            "name": "chenmingsheng",
+            "email": "1159604116@qq.com"
+        }
+    ],
+    "require": {
+        "php":">=5.6"
+    },
+    "autoload": {
+        "PSR-4": {
+            "tool\\src": "src"
+        }
+    }
+}
